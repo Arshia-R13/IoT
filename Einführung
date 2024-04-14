@@ -4,3 +4,36 @@ Eine umfassende Definition von IoT könnte sein:
 "Das Internet der Dinge ist ein Netzwerk von miteinander verbundenen physischen Objekten, die Sensoren und Software enthalten und Daten sammeln, austauschen und analysieren, 
       um intelligente Entscheidungen zu treffen und Aktionen auszuführen, 
       um die Effizienz zu steigern, Kosten zu senken und neue Möglichkeiten für Unternehmen und Benutzer zu schaffen."
+
+Mögliche Anforderungen an (IoT)-Netzwerke sind:
+▶ Skalierbarkeit:
+      wesentlich mehr Endgeräte,      
+      IPv4-Adressvorrat ist begrenzt und nicht ausreichend
+      IPv6 bildet eine mögliche Basis für IoT-Netzwerke
+▶ Sicherheit:
+      Geräte mit drahtlosen Datenverbindungen sind leicht auffindbar und angreifbar --> Sicherheitsrisiko
+      IoT-Netzwerke unterstützen mit Mechanismen wie Authentifizierung, Verschlüsselung und Intrusion Prevention
+▶ Rückwärtskompatibilität:
+
+▶ Hohe Datenmengen:
+      Vielzahl an IoT-Geräten erzeugen sehr hohe Datenmengen
+      Daten müssen analysiert und verwaltet werden
+      Wichtige Daten (in Abhängigkeit von der Anwendung) müssen von unwichtigen Daten getrennt werden
+      Anfragen von IoT-Geräten müssen schnellstmöglich beantwortet werden
+▶ Echtzeitfähigkeit
+▶ Unterstützung leistungsschwacher Geräte
+
+IoT's Architektur:
+oneM2M IoT Architektur:
+      Die OneM2M IoT-Architektur, ist ein globaler Standard für die Interoperabilität von IoT-Systemen. 
+      Sie definiert eine gemeinsame Plattform, auf der verschiedene IoT-Geräte und -Anwendungen miteinander 
+      kommunizieren können, unabhängig von Hersteller oder Netzwerk. Die Architektur legt Standards für die 
+      Datenkommunikation, Sicherheit und Interoperabilität fest, um eine nahtlose Integration und 
+      Zusammenarbeit zwischen verschiedenen IoT-Systemen zu ermöglichen.
+      Anwendungsfelder: Smart Metering, Smart Grid, Smart City, e-Health und Car-to-Car (C2C)
+      Interoperabilität in verschiedenen Bereichen und auf verschiedenen Ebenen:
+            Applications Layer, Services Layer, Network Layer
+
+Notwendige und Funktionsweise:
+
+Protokollen:
