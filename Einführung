@@ -34,6 +34,18 @@ oneM2M IoT Architektur:
       Interoperabilität in verschiedenen Bereichen und auf verschiedenen Ebenen:
             Applications Layer, Services Layer, Network Layer
 
-Notwendige und Funktionsweise:
+Zigbee:
+      Zigbee ist ein drahtloses Kommunikationsprotokoll, 
+      das speziell für den Einsatz in drahtlosen IoT-Geräten entwickelt wurde. 
+      Es basiert auf dem IEEE 802.15.4-Standard und zeichnet sich durch niedrigen Energieverbrauch, 
+      geringe Datenraten und kurze Übertragungsreichweiten aus. 
+      Zigbee wird häufig in Smart-Home-Geräten, industriellen Automatisierungssystemen und 
+      anderen IoT-Anwendungen eingesetzt, die eine zuverlässige drahtlose Kommunikation erfordern.
 
-Protokollen:
+Ökosystem: 
+      Das IoT-Ökosystem bezieht sich auf das gesamte Netzwerk von verbundenen Geräten, Plattformen, 
+      Anwendungen, Diensten und Stakeholdern, die zusammenarbeiten, um IoT-Lösungen bereitzustellen und zu nutzen. 
+      Es umfasst Hardwarehersteller, Softwareentwickler, Cloud-Anbieter, Telekommunikationsunternehmen, 
+      Endbenutzer und andere Akteure, die an der Entwicklung, Bereitstellung und Nutzung von 
+      IoT-Technologien beteiligt sind. Ein robustes IoT-Ökosystem fördert die Interoperabilität, 
+      Skalierbarkeit und Innovation und ermöglicht es, die Vorteile des Internets der Dinge voll auszuschöpfen.
